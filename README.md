@@ -1,7 +1,6 @@
 # Attrakdiff shiny 
 
 
-
 ### To run a container with Shiny Server:
 
 ```sh
