@@ -1,12 +1,7 @@
-# Shiny-server 
-**Fiche descriptive**
+# Attrakdiff shiny 
 
-IaaS ERPI / ENSGSI : **ERPI**  
-Recherche / Pédagogie: **Recherche**  
-nom DNS interne : **erpi-s-shiny-01.erpi.site.univ-lorraine.fr** 
-nom DNS externe : **shiny.lf2l.fr**  
-Reseau: **Interne**
-___
+
+
 ### To run a container with Shiny Server:
 
 ```sh
