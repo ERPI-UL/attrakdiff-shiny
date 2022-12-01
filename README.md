@@ -1,6 +1,5 @@
 # Attrakdiff shiny 
 
-test from github
 
 ### To run a container with Shiny Server:
 
